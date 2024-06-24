@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarketMadi
-- 👀 I’m interested in bitcoin, geospatial, nostrs and self hosting
-- 🌱 I’m currently learning how to disupt the universe with positive code 
+- 👀 I’m interested in bitcoin, geospatial, nostr and self hosting
+- 🌱 I’m currently learning how to disupt the universe with code 
 - 💞️ I’m looking to collaborate on anything that makes life better
 
 <!---

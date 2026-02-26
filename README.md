@@ -14,7 +14,7 @@
 ## 📝 I also write and build
 
 - Bitcoin education translations (Sinhalese, Swahili)
-- [Arduino Matatu Kit](https://example.com) for Kenyan STEM students *(add link if you have one)*
+- [Arduino Matatu Kit](https://storystem.substack.com/) for Kenyan STEM students
 - Technical blogging on DevOps and Bitcoin
 
 🌍 Based in Kenya. Work across UK, Sri Lanka, Canada.

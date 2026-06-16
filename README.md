@@ -1,4 +1,4 @@
-👋 I'm MarketMadi – builder on Bitcoin
+👋 I'm MarketMadi – I like to build things !
 
 ## 🔧 Recent Work (Private Repos)
 
